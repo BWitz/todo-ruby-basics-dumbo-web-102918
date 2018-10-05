@@ -3,14 +3,14 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  puts "Bob"
 end
 
-def argue
-  
+def argue(parameter)
+  puts "#{parameter}"
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
