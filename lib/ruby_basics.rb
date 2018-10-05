@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(parameter)
-  puts "#{parameter}"
+  return "#{parameter}"
 end
 
 def greeting(greeting, name)
